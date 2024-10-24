@@ -20,12 +20,11 @@ author: Turma aprimeiradeads
 ###############################################
 
 navbar-links:
-  About Me: "Sobre nós"
+  About Me: "https://www.instagram.com/aprimeiradeads/"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Github: "https://github.com/aprimeiradeads"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+    
 ################
 # --- Logo --- #
 ################
