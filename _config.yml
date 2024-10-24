@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: Aprimeiradeads
 
 # Your name to show in the footer
-author: Some Person
+author: Turma aprimeiradeads
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sobre nós"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
