@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Projeto Rachadinha
+subtitle: Rachadinha is a project that aims to facilitate the division of bills among friends, family, and colleagues.
+
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [full-stack app]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Turma 3A
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+ The application allows users to create groups and add expenses, which are automatically divided among the group members.
+"Racha" is a Brazilian slang term for "splitting the bill". It is a common practice in Brazil for friends to divide the bill when dining out or having drinks. "Rachadinha" is a diminutive form of "racha" and is not intended to remind you of any political scandals, as you may find when searching for the term on Google (😅). We also encourage you to look at the [code repository](https://github.com/guilhXavier/agile-project-3a).
 
 **Here is some bold text**
 
